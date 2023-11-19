@@ -1,0 +1,7 @@
+timestamp,temperatura,humedad,lluvia
+1700276531,20,99,True
+1700276553,30,80,False
+1700276610,10,50,True
+1700276638,23,90,False
+1700344806,66,66,True
+1700345930,45,90,False

@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "./M08_clasesyOOP"
+        "./M08_clasesyOOP",
+        "./M10_manejodearchivos/Archivos Homework M10"
     ]
 }
